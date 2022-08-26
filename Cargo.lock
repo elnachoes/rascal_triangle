@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rascal_triangle"
+name = "pascal"
 version = "0.1.0"
