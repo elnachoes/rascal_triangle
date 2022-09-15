@@ -8,4 +8,4 @@ I wrote this for fun to rewrite a college project that was written in c and also
 
 usage : 
   
-  rascal_triangle nth_row_of_pascals_triangle
+  pascal nth_row_of_pascals_triangle
